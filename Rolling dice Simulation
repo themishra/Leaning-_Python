@@ -3,7 +3,7 @@ import sys
 import os
 import time
 response=''
-welcome_text="\n\n*******Welcome to the dice Simulator*******"
+welcome_text="*******Welcome to the dice Simulator*******"
 def animation():
 		for i in range(5):
 			time.sleep(0.5)
